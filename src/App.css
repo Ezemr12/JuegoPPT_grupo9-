@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.barraNav{
+  text-align: middle;
+  font-size: 30px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cajaPrim{
+  display: flex;
+}
+
+.caja02{
+  width: 200px;
+  margin: 10px;
+}
